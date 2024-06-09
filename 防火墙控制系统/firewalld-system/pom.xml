@@ -8,8 +8,8 @@
     <artifactId>firewall-control-system</artifactId>
     <version>1.0.0</version>
     <!-- 系统名字和系统描述 -->
-    <name>Hospital-backend</name>
-    <description>医院管理系统</description>
+    <name>firewalld-system</name>
+    <description>防火墙管理系统</description>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
